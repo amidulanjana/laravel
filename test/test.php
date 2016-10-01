@@ -8,5 +8,10 @@
 
 class test {
 
+    public function test(){
+
+        $name="amila";
+        echo $name;
+    }
 
 }
