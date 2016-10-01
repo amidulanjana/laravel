@@ -14,4 +14,10 @@ class test {
         echo $name;
     }
 
+    public function getName(){
+        $name="amila";
+        echo $name;
+
+    }
+
 }
